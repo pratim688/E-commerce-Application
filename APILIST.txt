@@ -1,0 +1,16 @@
+ProductController
+Get Products - Done.
+Add a product-Done
+Get one product-Done
+Filter Product//query-Done
+
+//Those are authorize access without login we cannot access
+
+Rate Product
+Add items to Cart
+Get items to Cart
+Remove items from Cart
+
+UserController-Done
+signup-Email,name,password,TypeOfUser(customer,seller)-Done
+signin-(Email,password)-Done

@@ -1,0 +1,15 @@
+
+ Mon Jul 15 2024 00:49:44 GMT+0530 (India Standard Time)- /api/user/signin-{"email":"customer@2ecom.in","password":"password3"}
+ Mon Jul 15 2024 00:50:48 GMT+0530 (India Standard Time)- /api/cart?productId=2&quantity=2-{}
+ Mon Jul 15 2024 00:56:04 GMT+0530 (India Standard Time)- /api/user/signup-{"name":"pratim","email":"pratim@688","password":"pr12","TypeOfUser":"Customer"}{"level":"info","message":"/api/user/signup-{\"name\":\"pratim\",\"email\":\"pratim@688\",\"password\":\"pr12\",\"TypeOfUser\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"\n/api/products-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products/rate?userId=1&ProductId=2&rating=4.5-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products/rate?userId=1&ProductId=10&rating=4.5-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products/rate?userId=1&ProductId=10&rating=4.5-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products/rate?userId=1&ProductId=10&rating=4.5-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products/rate?userId=10&ProductId=1&rating=4.5-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products/rate?userId=10&ProductId=1&rating=4.5-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products/rate?userId=10&ProductId=1&rating=4.5-{}","service":"request-logging"}
+{"level":"info","message":"\n/api/products/rate?userId=1&ProductId=1&rating=4.5-{}","service":"request-logging"}
